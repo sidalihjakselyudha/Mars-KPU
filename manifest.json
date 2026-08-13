@@ -3,8 +3,8 @@
   "short_name": "Pengaduan Layanan Terintegrasi KPU Jaksel",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#881337",
-  "theme_color": "#881337",
+  "background_color": "#1e1b4b",
+  "theme_color": "#1e1b4b",
   "icons": [
     {
       "src": "Logo-KPU.png",
